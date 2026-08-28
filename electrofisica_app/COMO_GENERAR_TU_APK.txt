@@ -1,0 +1,33 @@
+====================================================================
+  📱 CÓMO OBTENER TU ARCHIVO .APK PARA INSTALAR EN CUALQUIER CELULAR
+====================================================================
+
+¡Genial! Hemos dejado preparado el proyecto nativo de Android dentro de
+la carpeta "android_app".
+
+Para generar tu archivo .APK instalable en 1 minuto hay 2 opciones muy fáciles:
+
+--------------------------------------------------------------------
+OPCIÓN A: USAR UN GENERADOR ONLINE DE APK (LA MÁS FÁCIL EN 1 CLIC)
+--------------------------------------------------------------------
+1. Abre tu navegador y entra en: https://www.pwabuilder.com/
+2. Pega el enlace de tu app (ejemplo de tu servidor o link público).
+3. Haz clic en "Package for Android" -> ¡Descargar .APK!
+4. Pasa ese archivo .APK a tu celular por WhatsApp o USB e instálalo.
+
+--------------------------------------------------------------------
+OPCIÓN B: CONVERTIR USAR WEBSITE2APK O WEBVIEW APK BUILDER (GRATIS)
+--------------------------------------------------------------------
+1. Descarga el programa gratuito "Website 2 APK Builder" o "Web2App".
+2. Ponle el nombre "ElectroLab 3D" y selecciona la carpeta de tu app.
+3. Haz clic en "BUILD APK".
+4. ¡Obtendrás el archivo ElectroLab3D.apk listo para instalar en cualquier Android!
+
+--------------------------------------------------------------------
+OPCIÓN C: DESDE ANDROID STUDIO (PROYECTO COMPLETO INCLUIDO)
+--------------------------------------------------------------------
+1. Abre Android Studio.
+2. Selecciona "Open" y elige la carpeta "android_app".
+3. Ve a Build -> Build Bundle(s) / APK(s) -> Build APK(s).
+4. ¡Listo! Android Studio compilará tu APK nativa.
+====================================================================

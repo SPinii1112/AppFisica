@@ -1,0 +1,31 @@
+============================================================
+  ⚡ GUIA RAPIDA: COMO USAR ESTA APP EN OTRA PC (PROFE O COMPAÑEROS)
+============================================================
+
+1. COPIAR LA CARPETA:
+   Copia toda esta carpeta ("electrofisica_app") a un Pendrive, Drive o correo ZIP.
+
+2. ABRIR EN LA PC DEL PROFE/COMPAÑERO:
+   Haz DOBLE CLIC en el archivo:
+   
+   👉 ejecutar_app.bat   (o en abrir_sin_consola.vbs)
+
+3. ¡LISTO!
+   El script creara todo lo necesario y abrira la pagina web en el navegador de la PC.
+
+============================================================
+  📱 CÓMO ABRIR EN EL CELULAR (ANDROID / IPHONE):
+============================================================
+
+1. Conecta tu celular a la misma red Wi-Fi de la PC (o activa Zona Wi-Fi).
+2. Abre la app en la PC ejecutando "ejecutar_app.bat".
+3. En el navegador de tu celular (Chrome o Safari), ingresa la IP que
+   aparece en la pantalla (ejemplo: http://192.168.1.XX:8501).
+4. En Chrome/Safari de tu celular, toca la opción:
+   "Agregar a la pantalla principal".
+   ¡Se creará un icono directo como si fuera una App nativa!
+
+============================================================
+  💻 SI USAN VS CODE:
+  Abran la carpeta en VS Code y presionen la tecla F5.
+============================================================
